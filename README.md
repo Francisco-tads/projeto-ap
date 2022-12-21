@@ -4,10 +4,10 @@
 
 # Sobre o projeto
 
-https://francisco-tads.github.io/projeto-ap.github.io/
+https://francisco-tads.github.io/projeto-ap/
 
 O projeto apartamento é uma aplicação Web e mobile, é uma demonstração de site de venda e, aluguel de imovel, toda sua estrutura de código, pode ser facilmente modificado de acordo com o gosto de cliente, um site que está hospedado no Github, e toda sua estrutura de código, pode ser visualizada também no Github.
- [Projeto-Apartamentos](https://meu-portfolio.dev.br/ "Site do projeto apartamentos").
+ [Projeto-Apartamentos](https://francisco-tads.github.io/projeto-ap/ "Site do projeto apartamentos").
 
 
 
